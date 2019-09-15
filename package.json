@@ -1,0 +1,27 @@
+{
+  "name": "dhtp",
+  "version": "1.0.0",
+  "description": "dhtp money",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.2.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dophu17/dhtp.git"
+  },
+  "author": "Dau Hu Thom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dophu17/dhtp/issues"
+  },
+  "homepage": "https://github.com/dophu17/dhtp#readme"
+}
